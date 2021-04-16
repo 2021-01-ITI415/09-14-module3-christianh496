@@ -214,7 +214,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 1
           m_FloatArgument: 0
-          m_StringArgument: SampleScene2
+          m_StringArgument: 01-Probuilder
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &40534635
@@ -425,7 +425,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 1
           m_FloatArgument: 0
-          m_StringArgument: SampleScene2
+          m_StringArgument: 03-Terrain
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &78865197
@@ -770,7 +770,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 1
           m_FloatArgument: 0
-          m_StringArgument: SampleScene2
+          m_StringArgument: 05-Audio
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &399937611
@@ -918,7 +918,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 716059387}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cfa8d4e35f0fd401992eec3f77d659d2, type: 3}
+  m_Script: {fileID: 11500000, guid: 2210735c0d27846388903f62cf196524, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!81 &716059389
@@ -1547,7 +1547,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 1
           m_FloatArgument: 0
-          m_StringArgument: SampleScene2
+          m_StringArgument: 04-Lighting
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1489571335
@@ -1758,7 +1758,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 1
           m_FloatArgument: 0
-          m_StringArgument: SampleScene2
+          m_StringArgument: 02-SNAPS
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1819811435
@@ -2088,7 +2088,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 1
           m_FloatArgument: 0
-          m_StringArgument: SampleScene2
+          m_StringArgument: 06-Particles
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2139397270
